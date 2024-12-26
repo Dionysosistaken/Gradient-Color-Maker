@@ -21,3 +21,7 @@
 ---
 
 This tool is particularly useful for implementing smooth gradient transitions in UI designs or visual effects quickly and efficiently.
+
+(THIS PROJECT WAS MADE BY A NOVICE UNITY DEVELOPER)
+
+(THERE MAY BE MANY SHORTCOMINGS THAT CAN BE ADDED IN THE FUTURE WITHOUT SPECIFYING THE TIME)
